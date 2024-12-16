@@ -26,5 +26,6 @@ public class NumberFeature {
 
         result = binaryValue;
         System.out.println(result);
+
     }
 }
